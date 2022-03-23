@@ -1,0 +1,15 @@
+article{
+  background-color:#57bb6b;
+}
+article h2 {
+}
+.banane {
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  color: black;
+  background-color: #fff8d7;
+}
+.banane p {
+  color: grey;
+}
