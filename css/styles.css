@@ -1,7 +1,16 @@
 article{
   background-color:#57bb6b;
 }
-article h2 {
+
+.intro {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.produits {
+  color:white;
+  text-align: center;
 }
 .banane {
   border-radius: 20px;
@@ -10,6 +19,100 @@ article h2 {
   color: black;
   background-color: #fff8d7;
 }
+
+.banane div img {
+  height:70px;
+  position: relative;
+  left:180px;
+  top :30px;
+}
+
 .banane p {
-  color: grey;
+  color: #7f7c6b;
+}
+.kiwi {
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  color: black;
+  background-color: #c4f2ad;
+}
+
+.kiwi div img {
+  height:70px;
+  position: relative;
+  left:180px;
+  top :30px;
+}
+
+.kiwi p {
+  color: #637855;
+}
+
+.cafe {
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  color: black;
+  background-color: #d3c6b2;
+}
+
+.cafe div img {
+  height:70px;
+  position: relative;
+  left:180px;
+  top :30px;
+}
+
+.cafe p {
+  color: #6b645a;
+}
+
+.fraise {
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  color: black;
+  background-color: #f7a4b4;
+}
+
+.fraise div img {
+  height:70px;
+  position: relative;
+  left:180px;
+  top :30px;
+}
+
+.fraise p {
+  color: #7a5359;
+}
+
+footer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+footer h2,
+p {
+  color: #57bb6b;
+}
+
+footer .e-mail {
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: #57bb6b;
+}
+footer .instagram {
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: #57bb6b;
+}
+footer .facebook {
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: #57bb6b;
 }
