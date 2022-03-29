@@ -159,6 +159,7 @@ footer p {
   color: #57bb6b;
 }
 footer .e-mail {
+  margin: 10px;
   justify-content: center;
   color: white;
   border-radius: 15px;
@@ -166,6 +167,7 @@ footer .e-mail {
   background-color: #57bb6b;
 }
 footer .instagram {
+  margin: 10px;
  justify-content: center;
   color: white;
   border-radius: 15px;
@@ -173,6 +175,7 @@ footer .instagram {
   background-color: #57bb6b;
 }
 footer .facebook {
+  margin: 10px;
   justify-content: center;
   color: white;
   border-radius: 15px;
